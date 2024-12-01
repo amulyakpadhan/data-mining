@@ -1,0 +1,9 @@
+pandas
+matplotlib
+scikit-learn
+scipy
+numpy
+math
+seaborn
+mlxtend
+more-itertools
